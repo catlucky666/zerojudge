@@ -1,3 +1,3 @@
 https://zerojudge.tw/ShowProblem?problemid=a001
-cpp finish in 20230817
+cpp finish in 20230816
 py finish in 20240812
