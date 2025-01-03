@@ -1,0 +1,2 @@
+https://zerojudge.tw/ShowProblem?problemid=a006
+cpp finish in 20230819
