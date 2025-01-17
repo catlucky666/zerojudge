@@ -1,2 +1,2 @@
 https://zerojudge.tw/ShowProblem?problemid=o076
-cpp finish in 20240616
+cpp finish in 20240906
